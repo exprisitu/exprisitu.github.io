@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://exprisitu.github.io/sitemap
+Sitemap: https://exprisitu.github.io/app/sitemap
+Sitemap: https://exprisitu.github.io/assets/sitemap
+Sitemap: https://exprisitu.github.io/css/sitemap
+Sitemap: https://exprisitu.github.io/includes/sitemap
+Sitemap: https://exprisitu.github.io/item/sitemap
+Sitemap: https://exprisitu.github.io/src/sitemap
